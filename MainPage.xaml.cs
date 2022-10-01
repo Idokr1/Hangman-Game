@@ -1,22 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
-using Windows.Foundation;
-using Windows.Foundation.Collections;
+using Windows.Media.Core;
+using Windows.Media.Playback;
 using Windows.UI.Popups;
-using Windows.UI.ViewManagement;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Controls.Primitives;
-using Windows.UI.Xaml.Data;
-using Windows.UI.Xaml.Input;
-using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Media.Imaging;
-using Windows.UI.Xaml.Navigation;
-using Windows.Media.Playback;
-using Windows.Media.Core;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -62,15 +51,15 @@ namespace Hangman_Exercise
         }
         private void LoadImages()
         {
-            for(int i = 0; i < 11; i++)
+            for (int i = 0; i < 11; i++)
             {
-                var image10 = new BitmapImage(new Uri(@"ms-appx:/Images/10mistakes/wrong"+i.ToString()+".png"));
+                var image10 = new BitmapImage(new Uri(@"ms-appx:/Images/10mistakes/wrong" + i.ToString() + ".png"));
                 images10.Add(image10);
             }
 
-            for(int i = 0; i < 9; i++)
+            for (int i = 0; i < 9; i++)
             {
-                var image8 = new BitmapImage(new Uri(@"ms-appx:/Images/8mistakes/wrong"+i.ToString() +".png"));
+                var image8 = new BitmapImage(new Uri(@"ms-appx:/Images/8mistakes/wrong" + i.ToString() + ".png"));
                 images8.Add(image8);
             }
         }
@@ -92,7 +81,7 @@ namespace Hangman_Exercise
             {
                 manager.IsEasy = true;
                 possibleMistakes = manager.PossibleMistakes10;
-                txtMistakesDone.Text = $"0/{manager.PossibleMistakes10}";   
+                txtMistakesDone.Text = $"0/{manager.PossibleMistakes10}";
             }
             else if (comboDiff.SelectedIndex == 1)
             {
@@ -108,12 +97,13 @@ namespace Hangman_Exercise
             if (manager.C1 == 'a') { resultChart1.Text = "A"; manager.CorrectGuesses++; }
             else if (manager.C2 == 'a') { resultChart2.Text = "A"; manager.CorrectGuesses++; }
             else if (manager.C3 == 'a') { resultChart3.Text = "A"; manager.CorrectGuesses++; }
-            else {
+            else
+            {
                 manager.CountMistakes++;
                 txtMistakesDone.Text = $"{manager.CountMistakes}/{possibleMistakes}";
-                if(manager.IsEasy == true)
+                if (manager.IsEasy == true)
                     imageMiss.Source = images10[manager.CountMistakes];
-                if(manager.IsHard == true)
+                if (manager.IsHard == true)
                     imageMiss.Source = images8[manager.CountMistakes];
             }
             if (manager.GameOver())
@@ -124,14 +114,14 @@ namespace Hangman_Exercise
             if (manager.isWinner())
             {
                 WinSound();
-                await new MessageDialog($"You Won! The word was {manager.Word}").ShowAsync();                
-            } 
+                await new MessageDialog($"You Won! The word was {manager.Word}").ShowAsync();
+            }
         }
         private async void btnB_Click(object sender, RoutedEventArgs e)
         {
             if (manager.C1 == 'b') { resultChart1.Text = "B"; manager.CorrectGuesses++; }
             else if (manager.C2 == 'b') { resultChart2.Text = "B"; manager.CorrectGuesses++; }
-            else if (manager.C3 == 'b') {resultChart3.Text = "B"; manager.CorrectGuesses++; }
+            else if (manager.C3 == 'b') { resultChart3.Text = "B"; manager.CorrectGuesses++; }
             else
             {
                 manager.CountMistakes++;

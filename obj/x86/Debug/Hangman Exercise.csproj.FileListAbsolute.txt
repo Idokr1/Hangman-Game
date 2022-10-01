@@ -1,0 +1,45 @@
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\App.xbf
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\MainPage.xbf
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\Hangman Exercise.xr.xml
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\Hangman Exercise.exe
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\Hangman Exercise.pdb
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\resources.pri
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\AppxManifest.xml
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\System.Runtime.dll
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\Hangman Exercise.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\App.g.i.cs
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\App.g.cs
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\MainPage.g.cs
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\App.xaml
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\MainPage.xaml
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\App.xbf
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\MainPage.xbf
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\Hangman Exercise.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\Hangman Exercise.csproj.CopyComplete
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\Hangman Exercise.exe
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\Hangman Exercise.pdb
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\priconfig.xml
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\resources.resfiles
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\pri.resfiles
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\qualifiers.txt
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\Core\Hangman Exercise.exe
+C:\Users\User\Dropbox\4 - Business\Programming Workspace\Sela\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x86\Debug\Hangman Exercise.build.appxrecipe

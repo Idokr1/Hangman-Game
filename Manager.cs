@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Hangman_Exercise
+﻿namespace Hangman_Exercise
 {
     public class Manager
     {
@@ -23,8 +17,8 @@ namespace Hangman_Exercise
 
         public bool GameOver()
         {
-            if(_isEasy == true)
-                if(_countMistakes == _possibleMistakes10)
+            if (_isEasy == true)
+                if (_countMistakes == _possibleMistakes10)
                 {
                     _countMistakes = 0;
                     return true;
@@ -36,7 +30,7 @@ namespace Hangman_Exercise
                     return true;
                 }
 
-            return false;                
+            return false;
         }
         public bool isWinner()
         {
@@ -63,7 +57,6 @@ namespace Hangman_Exercise
 
         public bool IsEasy { get { return _isEasy; } set { _isEasy = value; } }
         public bool IsHard { get { return _isHard; } set { _isHard = value; } }
-
 
     }
 }

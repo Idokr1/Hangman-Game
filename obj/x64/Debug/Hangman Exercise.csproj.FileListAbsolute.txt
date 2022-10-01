@@ -1,0 +1,45 @@
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\App.xbf
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\MainPage.xbf
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\Hangman Exercise.xr.xml
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\Hangman Exercise.exe
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\Hangman Exercise.pdb
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\resources.pri
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\AppxManifest.xml
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\Core\AppxManifest.xml
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\Core\Hangman Exercise.exe
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\Hangman Exercise.build.appxrecipe
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\System.Runtime.dll
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\Hangman Exercise.csproj.AssemblyReference.cache
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\App.g.i.cs
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\App.g.cs
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\MainPage.g.i.cs
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\MainPage.g.cs
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\XamlTypeInfo.g.cs
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\App.xaml
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\MainPage.xaml
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\App.xbf
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\MainPage.xbf
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\XamlSaveStateFile.xml
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\Hangman Exercise.csproj.CoreCompileInputs.cache
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\Hangman Exercise.csproj.CopyComplete
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\Hangman Exercise.exe
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\Hangman Exercise.pdb
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\ResourceHandlingTask.state
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\priconfig.xml
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\priconfig.xml.intermediate
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\unfiltered.layout.resfiles
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\filtered.layout.resfiles
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\filtered.layout.resfiles.intermediate
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\excluded.layout.resfiles
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\excluded.layout.resfiles.intermediate
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\resources.resfiles
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\resources.resfiles.intermediate
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\pri.resfiles
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\pri.resfiles.intermediate
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\qualifiers.txt
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\qualifiers.txt.intermediate
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\ProjectArchitectures.txt
+G:\My Drive\Sela Course\Courses\4- Object Oriented and C# in depth - Michal\15.6.22\Hangman Exercise\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424707200000000.json
