@@ -90,7 +90,7 @@ namespace Hangman_Exercise
                 txtMistakesDone.Text = $"0/{manager.PossibleMistakes8}";
             }
             //Uncomment if you wish to know the random word
-            randomWord.Text = $"{manager.Word}";
+            //randomWord.Text = $"{manager.Word}";
         }
         private async void btnA_Click(object sender, RoutedEventArgs e)
         {
