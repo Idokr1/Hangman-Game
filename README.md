@@ -22,7 +22,13 @@ The project is based on OOP and contains:
 5. Keep track your number of mistakes
 
 
-```
-![Hangman](GameExamples/Hangman.png)
+## Game Example 1:
+![Hangman](/GameExamples/Hangman.png)  
 
-```
+## Game Example 2:
+![Hangman](/GameExamples/HangmanWon.png)  
+
+## Game Example 3:
+![Hangman](/GameExamples/HangmanLost.png)  
+
+
