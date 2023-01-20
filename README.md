@@ -23,6 +23,6 @@ The project is based on OOP and contains:
 
 
 ```
-![Hangman](/Game Examples/Hangman.png?raw=true "Hangman")
+![Hangman](/GameExamples/Hangman.png?raw=true "Hangman")
 
 ```
