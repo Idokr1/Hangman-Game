@@ -5,7 +5,7 @@ Welcome to Hangman UWP, the ultimate word guessing game
 
 The project is based on OOP and contains:
 1. Wordbank - Contains the possible words and editable
-2. Manager - Handles the logic of the game (it includes choosing the random war, determining if the player has lost/won, etc)
+2. Manager - Handles the logic of the game (it includes choosing the random word, determining if the player has lost/won, etc)
 3. UI - Contains the UI elements and some of the relevant code 
 
 
